@@ -1,0 +1,46 @@
+h1 {
+    color: rgb(43, 226, 141);
+    background-color: black;
+    width: 70%;
+    padding: 22px;
+    border-radius: 11px;
+    font-size: 40px;
+    font-family: 'Smokum', cursive;
+}
+#show_sketch {
+    float: right;
+    font-size: 25px;
+}
+#label, #confidence {
+    width: 20%;
+    text-align: center;
+    color: rgb(127, 240, 255);
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 22px;
+    font-family: 'Festive', cursive;
+    letter-spacing: 2px;
+}
+button {
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#score {
+    font-size: 30px;
+    font-family: 'Festive', cursive;
+    float: left;
+    color: aqua;
+    background-color: black;
+    white-space: pre-line;
+}
+#timer {
+    font-size: 30px;
+    font-family: 'Festive', cursive;
+    float: right;
+    color: aqua;
+    background-color: black;
+    white-space: pre-line;
+}
